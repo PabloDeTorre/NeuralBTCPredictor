@@ -30,5 +30,3 @@ if len(sys.argv) == 2:
     print("Terminado")
 else:
     print("ERROR")
-
-# Habría que hacer que el 'time_start' se fuera actualizando con el último 'timestamp' de "data.txt"
